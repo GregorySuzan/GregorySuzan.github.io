@@ -1,7 +1,4 @@
-# GregorySuzan.github.io
-<<<<<<< HEAD
-A single-page bio site designed with a terminal/cyberpunk aesthetic. No frameworks, no build tools, no dependencies — just a static index.html that loads fast and looks sharp.
-=======
+🔗 # GregorySuzan.github.io
 
 Personal bio-link page hosted on GitHub Pages — a developer-focused alternative to Linktree built with plain HTML/CSS.
 
@@ -11,7 +8,7 @@ Personal bio-link page hosted on GitHub Pages — a developer-focused alternativ
 
 ## Overview
 
-A single-page bio site designed with a terminal/cyberpunk aesthetic. No frameworks, no build tools, no dependencies — just a static `index.html` that loads fast and looks sharp.
+A single-page bio site designed with a terminal aesthetic. No frameworks, no build tools, no dependencies — just a static `index.html` that loads fast and looks sharp.
 
 **Links featured:**
 - 🌐 Portfolio — [gregorysuzan.com](https://www.gregorysuzan.com)
