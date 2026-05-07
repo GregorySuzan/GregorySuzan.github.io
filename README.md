@@ -90,4 +90,3 @@ Built by someone who spent 6 years in design before pivoting to cloud computing.
 ---
 
 *Inspired by [LittleLink](https://github.com/sethcottle/littlelink). Built from scratch.*
->>>>>>> 9b37d0c (Initial commit)
